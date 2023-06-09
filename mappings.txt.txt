@@ -1,0 +1,27 @@
+CLASS a
+CLASS b
+	FIELD a intconst I
+	FIELD a string0 Ljava/lang/String;
+	FIELD a ipAddress Ljava/net/InetSocketAddress;
+CLASS D Chat
+CLASS E ChatChain
+CLASS F ClientChat
+CLASS G EncryptionRequest
+CLASS g MinecraftBot
+CLASS H EncryptionResponse
+CLASS h MinecraftBot2
+CLASS J
+CLASS L
+CLASS O
+CLASS o MinecraftFriendlyByteBuf
+CLASS P
+CLASS R
+CLASS s MinecraftIPAddressResolver
+CLASS T
+CLASS t MinecraftPacketDecoder
+CLASS U
+CLASS V
+CLASS W
+CLASS X
+CLASS Y
+CLASS y MinecraftPacketEncryption
